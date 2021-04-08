@@ -1,0 +1,10 @@
+button{ 
+    padding: 0;
+    border: none;
+    background: none;
+}
+.menu-item:hover {
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
